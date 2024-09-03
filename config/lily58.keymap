@@ -75,7 +75,7 @@
 &kp TILDE  &kp F1  &kp F2  &kp F3           &kp F4           &kp F5                           &kp F6    &kp F7          &kp F8            &kp F9           &kp F10        &kp F12
 &kp LCTRL  &none   &none   &kp INSERT       &kp PRINTSCREEN  &kp PAGE_UP                      &kp HOME  &none           &kp UP_ARROW      &none            &kp BACKSLASH  &kp EQUAL
 &kp LSHFT  &none   &none   &kp DELETE       &kp END          &kp PAGE_DOWN                    &kp END   &kp LEFT_ARROW  &kp DOWN_ARROW    &kp RIGHT_ARROW  &none          &kp RS(EQUAL)
-&kt TAB    &none   &none   &kp LC(LA(DEL))  &trans           &kp LEFT_ALT   &trans    &trans  &trans    &none           &kp K_PLAY_PAUSE  &none            &kp LS(N7)     &none
+&kt TAB    &none   &none   &kp LC(LA(DEL))  &trans           &kp LEFT_ALT   &trans    &trans  &trans    &none           &kp C_PLAY_PAUSE  &none            &kp LS(N7)     &none
                            &trans           &trans           &trans         &trans    &trans  &trans    &trans          &trans
             >;
 
